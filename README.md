@@ -20,9 +20,8 @@ The link to the GitHub repository is as follows:
 
 ## Weights & Biases Dashboard
 You can track all experiment runs and artifact lineage here:
-[https://wandb.ai/vlord1-western-governors-university/nyc_airbnb/overview/details](https://wandb.ai/vlord1-western-governors-university/nyc_airbnb/overview/details)
+[https://wandb.ai/vlord1-western-governors-university/nyc_airbnb](https://wandb.ai/vlord1-western-governors-university/nyc_airbnb)
 
-**Note on Visibility:** This project is hosted within an institutional W&B team workspace. Due to organization-level security policies, the "Public" visibility option is restricted. If you encounter any access issues, please let me know, and I will provide the necessary screenshots or report exports.
 
 ## Getting Started
 
